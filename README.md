@@ -92,12 +92,6 @@ http://sevensp.homelinux.com/anonimo.2021/index.m3u8
 #EXTINF:-1 tvg-id="Cine Sky 7 - Viuva Negra" tvg-name="Cine Sky 7 - Viuva Negra" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 7 - Viuva Negra
 http://sevensp.homelinux.com/viuva.negra.2021/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/78.m3u8?play_token=rSqZfSNfkH&token=TBtZUEsLRF5AAlIIClcEUVdfBlcGDFMFAgAGBFQDDFYOAAlTD1NWB1EUSRtLRkVQB1RoClQXCgFcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgIKBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcMU0QZ
 
@@ -212,7 +206,6 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/42.m3u8?play_token=s8O
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/5.m3u8?play_token=FGVeJeNWBz&token=TBtZUEsLRF5AD1wOXFNSU1AADgUAVwMBBlNSBwEABVcAWgEEDlpQVFcUSRtLRkVQB1RoClQXCgNIQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQcDUwEQGxtUSUwGFAoDWjpdXUReVgMbDQ1FWVwaRgxZb1EDWFNZXRMLGlNESEBfFkkaCFlAClUbQVJcREQFF1ISD0QEBw4MEx0aAAkRDEIXQBoIFXc0GxtBVU1EUwoQXl9bRA8QWgpECRpPRA0RaRdcS0ZFUAdUUhESDxIGRk8VXVQealFYV19UWxcPCwxFRwMaAxUZRFRYDVlBX0Q7E15UF1wXAAANAwkaHg==
 
-
 #EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/26.m3u8?play_token=r9x3mDmFzB&token=TBtZUEsLRF5AVFAODwADAlcLU1YDVAYAUVZWB1YHUQYFDFVQClAHBQAUSRtLRkVQB1RoClQXCgRSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwUGABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYOBAEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCQkOQRs=
 
@@ -240,12 +233,8 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/24.m3u8?play_token=ZPQ
 
 #EXTINF:-1 tvg-id="GLOBO RBS" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",GLOBO http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
-
-
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="Globo RJ" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",GLOBO
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/145.m3u8?play_token=HDZSC6Pdqy&token=TBtZUEsLRF5AU1IPWlQPA1FcBgFRBlNUBVtVAQVWVwsDAFUHDlVTXAQUSRtLRkVQB1RoClQXCgdQVhsSQBVQQGhQVRMCQVJRUgJcGxQQQ1wLXBVZABkSRg0HFQoXVwwKAgoTHRoGHhAHRAtYVG1TUBBQVAYSD15DCA8bEloIalZSVFBfXEFcRlIUSRtRQUcXXFdCD1wZElQNF0VRQQMXCBUIBgUPQUpGAVkQV0xAThdcG3UxEhkSUxwXUl5GD1pcFQMTXAsWXkZOFAxKZ0BSRhJLUgJdUEIUXkEHEhlEWFNPZlJeVg0DBxZfCldLEA0XVxsbQV1aXl8QDEVvRQ9REA0bAAgOVFBGHw==
 
 #EXTINF:-1 tvg-id="Globo Criciuma" tvg-name="Globo Criciuma" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Criciuma
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/130942.m3u8?play_token=kUqF50QnlA&token=TBtZUEsLRF5AU1cOCQRRBVQOAgUAAAlSVgJRUwNSUQABCFMFAAcDUVoUSRtLRkVQB1RoClQXCgdXUw4EB0oXR0RcQ25RB0ReQAJQCQwLFRlETV4OVRcKBkhBR1lRRA8QBggHAhpPRAEaQgBLVlNbagJcQQpTUBIMChZbXBlEWlxoXVRcWQ0CRlgUVRsUEF5GFhsNDUVZXBpGAV5ERwdBVxUDEwAAUV9GThQGVk1cQ0cfGw1BcmcSGkYGT0RQCEZbWFcTCxoOVRFaFEkbUUFoRwNKQxFVVF1TFkENEgVEGRBaWEluWwwICgdVEVBXXEQXXBsGQRwXXVkKCkNfRzlFW1MbCxMJU1ZVQEs=
-
-
