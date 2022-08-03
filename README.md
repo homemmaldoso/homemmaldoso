@@ -131,16 +131,16 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/79.m3u8?play_token=D6d
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="Variedades",LIFETIME HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/65.m3u8?play_token=9MjGbEACnw&token=TBtZUEsLRF5AAFMKWQICVlFaDwIDAAFVVAcHCAVUBQIDWlBQAFcEVFYUSRtLRkVQB1RoClQXCgBRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUNAQQPQRs=
 
-#EXTINF:-1 tvg-id="Megapix FHD [Alter]" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/46.m3u8?play_token=ldx6JZmmY8&token=TBtZUEsLRF5AVVINAAEABwVaVgYIVwMAVlcFCQRTAlFWXwgCDwBXUQEUSRtLRkVQB1RoClQXCgJSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgABABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAgQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUKAAMLUUQZ
 
-#EXTINF:-1 tvg-id="Paramount FHD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/66.m3u8?play_token=SFjGsiRTon&token=TBtZUEsLRF5AAgNYWQpWDFELU1AFAQQDAlAEAVRRVwcACFcHAAFeB1oUSRtLRkVQB1RoClQXCgBSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQBBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQIJQRs=
 
 #EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="PRIME BOX BRASIL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="Variedades",PRIME BOX BRASIL FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/92.m3u8?play_token=AmHMzm3GxC&token=TBtZUEsLRF5AVVUMC1EFBl8BAVRSVgdSV1QFCAFUUwcBAQdTXlVVU1YUSRtLRkVQB1RoClQXCg9WTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQCARsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAQYJUEQZ
 
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Comedy Central
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/73.m3u8?play_token=0DjRDhJzuB&token=TBtZUEsLRF5ABAELXQQHV1cAAAAAVlIOAlYDBgdSDAUEDgMGD1sFXFMUSRtLRkVQB1RoClQXCgFXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVAIKBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAQgNVEQZ
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Variedades",GNT
@@ -152,7 +152,7 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/64.m3u8?play_token=EtF
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Multishow HD
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/52.m3u8?play_token=St1fqvTIly&token=TBtZUEsLRF5AA1EBAAECVFdYBgJVAQIPBwACVAMCVlFSWgBQAVAEBgAUSRtLRkVQB1RoClQXCgNWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUQAEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwENAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA4NCAYaHg==
 
-#EXTINF:-1 tvg-id="True TV FHD" tvg-name="True TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Variedades",True TV HD
+#EXTINF:-1 tvg-id="True TV HD" tvg-name="True TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Variedades",True TV HD
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/99.m3u8?play_token=ZqTZn3it0t&token=TBtZUEsLRF5AUFxcXANSBgUKAAUHVlICUVQOAQMHA1YEXQMCDlNWVQYUSRtLRkVQB1RoClQXCg9dTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXwIEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4LBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAYKQRs=
 
 #EXTINF:-1 tvg-id="VH1 HD FHD" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/mXuzJsn.png" group-title="Variedades",Vh1 HD
