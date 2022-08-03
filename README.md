@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="Documentários",ANIMAL PLANET FHD H264
+
+#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="Documentários",ANIMAL PLANET HD
+http://185.236.230.12:8080/zQKZLpqhEi/C5i30IMoKe/3373?play_token=rdRRIRmsCl&token=MDZTUUF6eHZQUGZWSHpZ
 
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD H264" tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="Filmes",AXN FHD H264
 http://channels2.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/29.m3u8?play_token=6HswwCP4TM&token=TBtZUEsLRF5AAVVbXVRRBwVcVgFUVwgGAAIGUldVBVEHD1UEAVRUAQMUSRtLRkVQB1RoClQXCgRdTxVFRgNHbV5dEwsaUVRQVwZHFRpGXlgDGw1THBdAXwBBDRIHUgwLBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwkOUUQZ
@@ -192,19 +194,6 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/5.m3u8?play_token=FGVe
 
 #EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/26.m3u8?play_token=r9x3mDmFzB&token=TBtZUEsLRF5AVFAODwADAlcLU1YDVAYAUVZWB1YHUQYFDFVQClAHBQAUSRtLRkVQB1RoClQXCgRSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwUGABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYOBAEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCQkOQRs=
-
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 1" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139344.m3u8?play_token=aFBI7CLMfw
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 2" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139345.m3u8?play_token=5rXHa1mLiN
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 3" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139346.m3u8?play_token=fybC7IWlV9
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 4" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139347.m3u8?play_token=u90BQXEamN
-#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 1" tvg-logo="" group-title="Esportes",BR Copa Catarinense 1
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/154616.m3u8?play_token=PagQ0aGBOu
-#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 2" tvg-logo="" group-title="Esportes",BR Copa Catarinense 2
-http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/154617.m3u8?play_token=HdDkoQX1VX
 
 #EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/31.m3u8?play_token=ot9JAHrO9o&token=TBtZUEsLRF5AVQZcDQAFUAMKBwYJAABVVQAOAARXDQQFD1RUCFJRXVEUSRtLRkVQB1RoClQXCgVVTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgwKBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCQgBQRs=
