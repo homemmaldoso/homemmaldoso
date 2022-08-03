@@ -32,6 +32,11 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/84.m3u8?play_token=Nhw
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/80.m3u8?play_token=Q0PbzRo3ee&token=TBtZUEsLRF5AAVEKC1APBwVaAQECUAFUUwYCVQ0HVwVUDFBTWVMABVsUSRtLRkVQB1RoClQXCg5UTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUAMCFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIMAxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8AAgIaHg==
 
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",NICKELODEON H265
+http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/59.m3u8?play_token=ugttkfvNas&token=TBtZUEsLRF5AUFZcClQPVl5cDltVUQZVVFNWBQFVVlYOCFAIAFZQVlQUSRtLRkVQB1RoClQXCgNdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVQUFFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIOABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQPBQMaHg==
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
+http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/96.m3u8?play_token=BA9Ya6xJmz&token=TBtZUEsLRF5AAlRaCQRTBlFfAgYHDFJTXAYPVQMFUAcADgMBWlADAFsUSRtLRkVQB1RoClQXCg9STxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUQIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8ABQgaHg==
 
 #EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND FHD H265" tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="TV aberta",BAND FHD H265
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
