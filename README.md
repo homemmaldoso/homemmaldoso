@@ -82,7 +82,7 @@ http://sevensp.homelinux.com/the.matrix.4/index.m3u8
 #EXTINF:-1 tvg-id="Cine Sky 3 - Cinderela" tvg-name="Cine Sky 3 - Cinderela" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 3 - Cinderela
 http://sevensp.homelinux.com/cinderela.2021/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Sky 4 - A Guerra do Amanha" tvg-name="Cine Sky 4 - A Guerra do Amanha" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes"Cine Sky 4 - A Guerra do Amanha
+#EXTINF:-1 tvg-id="Cine Sky 4 - A Guerra do Amanha" tvg-name="Cine Sky 4 - A Guerra do Amanha" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 4 - A Guerra do Amanha
 http://sevensp.homelinux.com/a.guerra.do.amanha.2021/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sky 5 - jungle Cruise" tvg-name="Cine Sky 5 - jungle Cruise" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 5 - jungle Cruise
