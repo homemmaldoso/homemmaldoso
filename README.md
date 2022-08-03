@@ -74,6 +74,26 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/82.m3u8?play_token=zTJ
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="Filmes",TBS FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/91.m3u8?play_token=5cKDdZLyNO&token=TBtZUEsLRF5AAlMACgJUBV5cB1pTBAUHVFoPAgcHVwIBDwNQWwdeUQQUSRtLRkVQB1RoClQXCg9VTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgwGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYAAgAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQYIQRs=
 
+#EXTINF:-1 tvg-id="Cine Sky 2 - Matrix" tvg-name="Cine Sky2 - Matrix" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky2 - Matrix
+http://sevensp.homelinux.com/the.matrix.4/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sky 3 - Cinderela" tvg-name="Cine Sky 3 - Cinderela" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 3 - Cinderela
+http://sevensp.homelinux.com/cinderela.2021/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sky 4 - A Guerra do Amanha" tvg-name="Cine Sky 4 - A Guerra do Amanha" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes"Cine Sky 4 - A Guerra do Amanha
+http://sevensp.homelinux.com/a.guerra.do.amanha.2021/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sky 5 - jungle Cruise" tvg-name="Cine Sky 5 - jungle Cruise" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 5 - jungle Cruise
+http://sevensp.homelinux.com/jungle.cruise.2021/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sky 6 - Anonimo" tvg-name="Cine Sky 6 - Anonimo" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 6 - Anonimo
+http://sevensp.homelinux.com/anonimo.2021/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sky 7 - Viuva Negra" tvg-name="Cine Sky 7 - Viuva Negra" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 7 - Viuva Negra
+http://sevensp.homelinux.com/viuva.negra.2021/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/78.m3u8?play_token=rSqZfSNfkH&token=TBtZUEsLRF5AAlIIClcEUVdfBlcGDFMFAgAGBFQDDFYOAAlTD1NWB1EUSRtLRkVQB1RoClQXCgFcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgIKBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcMU0QZ
 
