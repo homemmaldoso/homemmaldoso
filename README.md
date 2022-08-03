@@ -85,14 +85,7 @@ http://sevensp.homelinux.com/cinderela.2021/index.m3u8
 #EXTINF:-1 tvg-id="Cine Sky 4 - A Guerra do Amanha" tvg-name="Cine Sky 4 - A Guerra do Amanha" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 4 - A Guerra do Amanha
 http://sevensp.homelinux.com/a.guerra.do.amanha.2021/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Sky 5 - jungle Cruise" tvg-name="Cine Sky 5 - jungle Cruise" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 5 - jungle Cruise
-http://sevensp.homelinux.com/jungle.cruise.2021/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Sky 6 - Anonimo" tvg-name="Cine Sky 6 - Anonimo" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 6 - Anonimo
-http://sevensp.homelinux.com/anonimo.2021/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine Sky 7 - Viuva Negra" tvg-name="Cine Sky 7 - Viuva Negra" tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Filmes",Cine Sky 7 - Viuva Negra
-http://sevensp.homelinux.com/viuva.negra.2021/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
