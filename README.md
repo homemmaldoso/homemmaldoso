@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD H264" tvg-logo="http://dns.ulttv.xyz/i/ae.png" group-title="Filmes",A&E FHD H264
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes",A&E HD
+
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
@@ -32,7 +33,7 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/84.m3u8?play_token=Nhw
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/80.m3u8?play_token=Q0PbzRo3ee&token=TBtZUEsLRF5AAVEKC1APBwVaAQECUAFUUwYCVQ0HVwVUDFBTWVMABVsUSRtLRkVQB1RoClQXCg5UTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUAMCFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIMAxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8AAgIaHg==
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",NICKELODEON H265
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",Nickelondeon
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/59.m3u8?play_token=ugttkfvNas&token=TBtZUEsLRF5AUFZcClQPVl5cDltVUQZVVFNWBQFVVlYOCFAIAFZQVlQUSRtLRkVQB1RoClQXCgNdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVQUFFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIOABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQPBQMaHg==
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
@@ -54,10 +55,10 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/130.m3u8?play_token=dp
 #EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes",Telecine Pipoca
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/11.m3u8?play_token=ZK245R8MtG&token=TBtZUEsLRF5AUFYKXAoGAFZcU1YABQUCUAVTAAMAAFYGDwUHCwIDXVoUSRtLRkVQB1RoClQXCgdVTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwcKDxsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBBQUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAYPQRs=
 
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TC ACTION FHD H265" tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="Filmes",TC ACTION FHD H265
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TC ACTION FHD H265" tvg-logo="http://dns.ulttv.xyz/i/tcaction.png" group-title="Filmes",TC Action HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/8.m3u8?play_token=lWLCdhtqjv&token=TBtZUEsLRF5ADl0IDldSVFRbAlcGUAUPBwUPBlcABwUHAQQIWVICBlUUSRtLRkVQB1RoClQXCg5IQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQIAVwwDFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwEKBxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAUNBQIaHg==
 
-#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="TC CULT FHD H265" tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="Filmes",TC CULT FHD H265
+#EXTINF:-1 tvg-id="Telecine Cult FHD" tvg-name="TC CULT FHD H265" tvg-logo="http://dns.ulttv.xyz/i/telecinecult.png" group-title="Filmes",TC Cult HD
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/12.m3u8?play_token=yTET2irMpk&token=TBtZUEsLRF5ABQYIDAoFVAMBDwdSAQQOUgIPBgRXUFRVDQkCWlteXVoUSRtLRkVQB1RoClQXCgdWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVg0CFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwEIAxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8ACAQaHg==
 
 #EXTINF:-1 tvg-id="Telecine Fun FHD" tvg-name="TC FUN FHD H265" tvg-logo="http://dns.ulttv.xyz/i/tcfun.png" group-title="Filmes",TC FUN FHD H265
@@ -110,31 +111,31 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/75.m3u8?play_token=Mfl
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/40.m3u8?play_token=qTO0DhuQ4c&token=TBtZUEsLRF5AAVFaD1ZWV1NYA1cHDQgHVloDBwdVUQNTWlICAFUEAAYUSRtLRkVQB1RoClQXCgJUTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwEDBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQkKQRs=
 #EXTINF:-1 tvg-id="HBO Xtreme FHD [Alter]" tvg-name="HBO XTREME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="HBO",HBO XTREME FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/79.m3u8?play_token=D6diGHBinj&token=TBtZUEsLRF5AAVNdWVcFBlUOA1RRDFUGVlFUCAFeUFFSXVQBCwJXUwcUSRtLRkVQB1RoClQXCgFdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwIGBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgcaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAkOQRs=
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="ENTRETENIMENTO",LIFETIME FHD H264
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="Variedades",LIFETIME FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/65.m3u8?play_token=9MjGbEACnw&token=TBtZUEsLRF5AAFMKWQICVlFaDwIDAAFVVAcHCAVUBQIDWlBQAFcEVFYUSRtLRkVQB1RoClQXCgBRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUNAQQPQRs=
 #EXTINF:-1 tvg-id="Megapix FHD [Alter]" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/46.m3u8?play_token=ldx6JZmmY8&token=TBtZUEsLRF5AVVINAAEABwVaVgYIVwMAVlcFCQRTAlFWXwgCDwBXUQEUSRtLRkVQB1RoClQXCgJSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgABABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAgQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUKAAMLUUQZ
 #EXTINF:-1 tvg-id="Paramount FHD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/66.m3u8?play_token=SFjGsiRTon&token=TBtZUEsLRF5AAgNYWQpWDFELU1AFAQQDAlAEAVRRVwcACFcHAAFeB1oUSRtLRkVQB1RoClQXCgBSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQBBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQIJQRs=
-#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="PRIME BOX BRASIL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRASIL FHD H265
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="PRIME BOX BRASIL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="Variedades",PRIME BOX BRASIL FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/92.m3u8?play_token=AmHMzm3GxC&token=TBtZUEsLRF5AVVUMC1EFBl8BAVRSVgdSV1QFCAFUUwcBAQdTXlVVU1YUSRtLRkVQB1RoClQXCg9WTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQCARsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAQYJUEQZ
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES",SPORTV 1 FHD H265
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/26.m3u8?play_token=r9x3mDmFzB&token=TBtZUEsLRF5AVFAODwADAlcLU1YDVAYAUVZWB1YHUQYFDFVQClAHBQAUSRtLRkVQB1RoClQXCgRSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwUGABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYOBAEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCQkOQRs=
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 1" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="ESPORTES PPV",ESTÁDIO TNT SPORTS HD²
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 1" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139344.m3u8?play_token=aFBI7CLMfw
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 2" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="ESPORTES PPV",ESTÁDIO TNT SPORTS HD²
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 2" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139345.m3u8?play_token=5rXHa1mLiN
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 3" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="ESPORTES PPV",ESTÁDIO TNT SPORTS HD²
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 3" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139346.m3u8?play_token=fybC7IWlV9
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 4" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="ESPORTES PPV",ESTÁDIO TNT SPORTS HD²
+#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 4" tvg-logo="http://dns.ulttv.xyz/i/estadiotntsports.png" group-title="Esportes",ESTÁDIO TNT SPORTS HD²
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/139347.m3u8?play_token=u90BQXEamN
-#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 1" tvg-logo="" group-title="INTERNACIONAIS",BR Copa Catarinense 1
+#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 1" tvg-logo="" group-title="Esportes",BR Copa Catarinense 1
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/154616.m3u8?play_token=PagQ0aGBOu
-#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 2" tvg-logo="" group-title="INTERNACIONAIS",BR Copa Catarinense 2
+#EXTINF:-1 tvg-id="" tvg-name="BR Copa Catarinense 2" tvg-logo="" group-title="Esportes",BR Copa Catarinense 2
 http://45.162.230.146/live/2BFT7axxJI/K0aBi1QVWZ/154617.m3u8?play_token=HdDkoQX1VX
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES",SPORTV 1 FHD H265
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/31.m3u8?play_token=ot9JAHrO9o&token=TBtZUEsLRF5AVQZcDQAFUAMKBwYJAABVVQAOAARXDQQFD1RUCFJRXVEUSRtLRkVQB1RoClQXCgVVTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgwKBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCQgBQRs=
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="ESPORTES",SPORTV 1 FHD H265
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/57.m3u8?play_token=TJ6ZgAYSrT&token=TBtZUEsLRF5AVwFdXAcAU1cNBABVAFECAFQDUQFSUAAPCwQBD1pfUlEUSRtLRkVQB1RoClQXCgNTTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgABBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPBQMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAAIQRs=
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE 4k" tvg-logo="" group-title="Esportes",BR COMBATE (P)
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/24.m3u8?play_token=ZPQ8Jyx1Al&token=TBtZUEsLRF5ADlALClNUBldYDlJTUwEDAQAAVFBUAQNVCAMEXAEFBwQUSRtLRkVQB1RoClQXCgRQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgADDhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQYaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBULCQQPU0QZ
