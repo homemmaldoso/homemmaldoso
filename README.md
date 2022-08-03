@@ -149,7 +149,7 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/89.m3u8?play_token=OCC
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/64.m3u8?play_token=EtFYXwhrfW&token=TBtZUEsLRF5AAAcMXlEBAgJbVFFTDFMOBlVWVlNQU1RVC1QJDVEEXQQUSRtLRkVQB1RoClQXCgBQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUQwEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIAARMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAQKQRs=
 
-#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Multishow HD
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Multishow HD
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/52.m3u8?play_token=St1fqvTIly&token=TBtZUEsLRF5AA1EBAAECVFdYBgJVAQIPBwACVAMCVlFSWgBQAVAEBgAUSRtLRkVQB1RoClQXCgNWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUQAEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwENAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA4NCAYaHg==
 
 #EXTINF:-1 tvg-id="True TV FHD" tvg-name="True TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Variedades",True TV HD
@@ -161,31 +161,31 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/86.m3u8?play_token=irA
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Variedades",TLC
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/88.m3u8?play_token=3Gl9BLkDsc&token=TBtZUEsLRF5AD1IIDgQHUAMIBwdSBwYBU1cGVVYDAFZSDAgDAVJeXVUUSRtLRkVQB1RoClQXCg5cTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgAAFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4MABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQNBwIaHg==
 
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",NATGEO
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",NATGEO
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/58.m3u8?play_token=6ss6g5vWy7&token=TBtZUEsLRF5AUFUIXANTB1VYB1NTVwkBUlYOBw1QVgZRD1RQWlZTUFEUSRtLRkVQB1RoClQXCgNcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUAULFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYNBQAMQRs=
 
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Mais Globosat
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Mais Globosat" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Mais Globosat
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/33.m3u8?play_token=hbGMemXp0m&token=TBtZUEsLRF5ABgRfCVFUVlBaAwFRAwQPVlZRVldUB1MPDAUCDgVUUFAUSRtLRkVQB1RoClQXCgVXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUwUEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwELBxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAEMQRs=
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Channel
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/28.m3u8?play_token=UABUZuAGMY&token=TBtZUEsLRF5AB1UBCwcPUQUKUwcIBAgOAVBTAlNeBQRVCwcJDlZVVgYUSRtLRkVQB1RoClQXCgRcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVAMFBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPBAUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIBwMKQRs=
 
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/25.m3u8?play_token=Be6EZbackI&token=TBtZUEsLRF5ADwAJWwECB1UADgEAA1MFUAUCAVMAUwEPWlBTWQYCUQYUSRtLRkVQB1RoClQXCgRRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgEKFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQICAgaHg==
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History 2
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/9.m3u8?play_token=GYP8xGCwKC&token=TBtZUEsLRF5ABVRfDFQHBgMBA1pVAwZXUgVRBFRWVgZSDQgIXABRUVMUSRtLRkVQB1RoClQXCg9IQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQcNUgQQGxtUSUwGFAoDWjpdXUReVgMbDQ1FWVwaRgxZb1EDWFNZXRMLGlNESEBfFkkaCFlAClUbQVJcREQFF1ISD0QEBAcAEx0aAAkRDEIXQBoIFXc0GxtBVU1EUwoQXl9bRA8QWgpECRpPRA0RaRdcS0ZFUAdUUhESDxIGRk8VXVQealFYV19UWxcPCwxFRwMaAxUZRFRYDVlBX0Q7E15UF1wXAwEJAgkaHg==
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home Health" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Home Health
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home Health" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Home Health
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/85.m3u8?play_token=8muVJ4cOpd&token=TBtZUEsLRF5AVQZbDVQBAlAKUgADDAgEVABTUgVTV1FUCQkBCgBWVAMUSRtLRkVQB1RoClQXCg5RTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUAIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIOBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAUABAYKQRs=
 
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Documentários",ID: Investigação Discovery
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/76.m3u8?play_token=GxpV2n59li&token=TBtZUEsLRF5AVQMBW1cGB1MADltWU1EDXFECUlQHAwQOX1cIAFMCUlsUSRtLRkVQB1RoClQXCgFSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUgcEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KCRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAQBQRs=
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Theater
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/42.m3u8?play_token=s8OlEZti4m&token=TBtZUEsLRF5AB1daW1YCBQIKAFNWA1NUAQBWBgUABFcGDAVQDVEFUAMUSRtLRkVQB1RoClQXCgJWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINXgMBFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwEJABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQLAwIaHg==
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/5.m3u8?play_token=FGVeJeNWBz&token=TBtZUEsLRF5AD1wOXFNSU1AADgUAVwMBBlNSBwEABVcAWgEEDlpQVFcUSRtLRkVQB1RoClQXCgNIQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQcDUwEQGxtUSUwGFAoDWjpdXUReVgMbDQ1FWVwaRgxZb1EDWFNZXRMLGlNESEBfFkkaCFlAClUbQVJcREQFF1ISD0QEBw4MEx0aAAkRDEIXQBoIFXc0GxtBVU1EUwoQXl9bRA8QWgpECRpPRA0RaRdcS0ZFUAdUUhESDxIGRk8VXVQealFYV19UWxcPCwxFRwMaAxUZRFRYDVlBX0Q7E15UF1wXAAANAwkaHg==
 
 #EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/sportv1.png" group-title="Esportes",SPORTV 1 FHD H265
