@@ -3,7 +3,7 @@
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="Documentários",ANIMAL PLANET HD
-http://185.236.230.12:8080/zQKZLpqhEi/C5i30IMoKe/3373?play_token=rdRRIRmsCl&token=MDZTUUF6eHZQUGZWSHpZ
+
 
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD H264" tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="Filmes",AXN FHD H264
 http://channels2.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/29.m3u8?play_token=6HswwCP4TM&token=TBtZUEsLRF5AAVVbXVRRBwVcVgFUVwgGAAIGUldVBVEHD1UEAVRUAQMUSRtLRkVQB1RoClQXCgRdTxVFRgNHbV5dEwsaUVRQVwZHFRpGXlgDGw1THBdAXwBBDRIHUgwLBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwkOUUQZ
@@ -38,6 +38,8 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/59.m3u8?play_token=ugt
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/96.m3u8?play_token=BA9Ya6xJmz&token=TBtZUEsLRF5AAlRaCQRTBlFfAgYHDFJTXAYPVQMFUAcADgMBWlADAFsUSRtLRkVQB1RoClQXCg9STxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUQIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8ABQgaHg==
 
+#EXTINF:-1 tvg-id="Peppa Pig" tvg-name="Peppa Pig" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Peppa Pig
+http://46.4.85.197/24H-Peppa.Pig.S01.S02.S03.S04/index.m3u8
 
 
 
