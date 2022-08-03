@@ -200,3 +200,6 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/57.m3u8?play_token=TJ6
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE 4k" tvg-logo="" group-title="Esportes",BR COMBATE (P)
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/24.m3u8?play_token=ZPQ8Jyx1Al&token=TBtZUEsLRF5ADlALClNUBldYDlJTUwEDAQAAVFBUAQNVCAMEXAEFBwQUSRtLRkVQB1RoClQXCgRQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgADDhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQYaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBULCQQPU0QZ
 
+#EXTINF:-1 tvg-id="" tvg-name="Stand UP" tvg-logo="" group-title="Variedades",Stand UP
+http://24hrs.homelinux.com/24H-standup/index.m3u8
+
