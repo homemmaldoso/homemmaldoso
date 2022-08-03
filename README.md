@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
-#EXTINF:-1 tvg-id="Animal Planet SD" tvg-name="ANIMAL PLANET FHD H264" tvg-logo="http://dns.ulttv.xyz/i/animalplanet.png" group-title="Documentários",ANIMAL PLANET HD
-
-
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD H264" tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="Filmes",AXN FHD H264
 http://channels2.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/29.m3u8?play_token=6HswwCP4TM&token=TBtZUEsLRF5AAVVbXVRRBwVcVgFUVwgGAAIGUldVBVEHD1UEAVRUAQMUSRtLRkVQB1RoClQXCgRdTxVFRgNHbV5dEwsaUVRQVwZHFRpGXlgDGw1THBdAXwBBDRIHUgwLBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwkOUUQZ
 
@@ -38,16 +35,6 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/59.m3u8?play_token=ugt
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/96.m3u8?play_token=BA9Ya6xJmz&token=TBtZUEsLRF5AAlRaCQRTBlFfAgYHDFJTXAYPVQMFUAcADgMBWlADAFsUSRtLRkVQB1RoClQXCg9STxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUQIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8ABQgaHg==
 
-#EXTINF:-1 tvg-id="Peppa Pig" tvg-name="Peppa Pig" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Peppa Pig
-http://46.4.85.197/24H-Peppa.Pig.S01.S02.S03.S04/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Band SP HD" tvg-name="BAND FHD H265" tvg-logo="http://dns.ulttv.xyz/i/band.png" group-title="TV aberta",BAND FHD H265
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-id="Band News FHD" tvg-name="BAND NEWS FHD H264" tvg-logo="http://dns.ulttv.xyz/i/bandnews.png" group-title="NOTÍCIAS",BAND NEWS FHD H264
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FHD H265" tvg-logo="http://dns.ulttv.xyz/i/bis.png" group-title="ENTRETENIMENTO",BIS FHD H265
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="TV aberta",SBT HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/105.m3u8?play_token=MgFzg44bEt&token=TBtZUEsLRF5AV1VdClZVDVBfDlAIDARTU1IDAQYCBlQFDgFTDVBUUQMUSRtLRkVQB1RoClQXCgdUVhsSQBVQQGhQVRMCQVJRUgJcGxQQQ1wLXBVZABkSRg0HFQoXVw0FDwATHRoGHhAHRAtYVG1TUBBQVAYSD15DCA8bEloIalZSVFBfXEFcRlIUSRtRQUcXXFdCD1wZElQNF0VRQQMXCBUICAUJQUpGAVkQV0xAThdcG3UxEhkSUxwXUl5GD1pcFQMTXAsWXkZOFAxKZ0BSRhJLUgJdUEIUXkEHEhlEWFNPZlJeVg0DBxZfCldLEA0XVxsbQV1aXl8QDEVvRQ9REA0bAwULV15GHw==
 
@@ -77,8 +64,6 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/82.m3u8?play_token=zTJ
 
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="Filmes",TBS FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/91.m3u8?play_token=5cKDdZLyNO&token=TBtZUEsLRF5AAlMACgJUBV5cB1pTBAUHVFoPAgcHVwIBDwNQWwdeUQQUSRtLRkVQB1RoClQXCg9VTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgwGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYAAgAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQYIQRs=
-
-
 
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/78.m3u8?play_token=rSqZfSNfkH&token=TBtZUEsLRF5AAlIIClcEUVdfBlcGDFMFAgAGBFQDDFYOAAlTD1NWB1EUSRtLRkVQB1RoClQXCgFcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgIKBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcMU0QZ
@@ -128,16 +113,16 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/63.m3u8?play_token=dp1
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="HBO",HBO POP
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/75.m3u8?play_token=Mflg9NvKWx&token=TBtZUEsLRF5ADlNdXAFRDVcLAgIIDFQEV1QDCFFTB1QBWgNVXloCBwEUSRtLRkVQB1RoClQXCgFRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwAKAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAQEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQMKQRs=
 
-#EXTINF:-1 tvg-id="HBO Signature FHD [Alter]" tvg-name="HBO SIGNATURE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="HBO",HBO SIGNATURE FHD H264
+#EXTINF:-1 tvg-id="HBO Signature FHD [Alter]" tvg-name="HBO SIGNATURE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="HBO",HBO SIGNATURE HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/40.m3u8?play_token=qTO0DhuQ4c&token=TBtZUEsLRF5AAVFaD1ZWV1NYA1cHDQgHVloDBwdVUQNTWlICAFUEAAYUSRtLRkVQB1RoClQXCgJUTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwEDBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQkKQRs=
 
-#EXTINF:-1 tvg-id="HBO Xtreme FHD [Alter]" tvg-name="HBO XTREME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="HBO",HBO XTREME FHD H264
+#EXTINF:-1 tvg-id="HBO Xtreme FHD [Alter]" tvg-name="HBO XTREME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="HBO",HBO XTREME HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/79.m3u8?play_token=D6diGHBinj&token=TBtZUEsLRF5AAVNdWVcFBlUOA1RRDFUGVlFUCAFeUFFSXVQBCwJXUwcUSRtLRkVQB1RoClQXCgFdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwIGBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgcaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAkOQRs=
 
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="Variedades",LIFETIME FHD H264
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="Variedades",LIFETIME HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/65.m3u8?play_token=9MjGbEACnw&token=TBtZUEsLRF5AAFMKWQICVlFaDwIDAAFVVAcHCAVUBQIDWlBQAFcEVFYUSRtLRkVQB1RoClQXCgBRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUNAQQPQRs=
 
-#EXTINF:-1 tvg-id="Megapix FHD [Alter]" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX FHD H265
+#EXTINF:-1 tvg-id="Megapix FHD [Alter]" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/46.m3u8?play_token=ldx6JZmmY8&token=TBtZUEsLRF5AVVINAAEABwVaVgYIVwMAVlcFCQRTAlFWXwgCDwBXUQEUSRtLRkVQB1RoClQXCgJSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgABABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAgQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUKAAMLUUQZ
 
 #EXTINF:-1 tvg-id="Paramount FHD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL
