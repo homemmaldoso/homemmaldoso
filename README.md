@@ -182,12 +182,25 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/33.m3u8?play_token=hbG
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Channel
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/28.m3u8?play_token=UABUZuAGMY&token=TBtZUEsLRF5AB1UBCwcPUQUKUwcIBAgOAVBTAlNeBQRVCwcJDlZVVgYUSRtLRkVQB1RoClQXCgRcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVAMFBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPBAUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIBwMKQRs=
 
+#EXTINF:-1 tvg-id="Discovery Channel apk" tvg-name="Discovery Channel apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Channel apk
+http://212.102.60.39:2200/BRX/Discovery_Channel_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBjeQ==
+
 #EXTINF:-1 tvg-id="Discovery HH apk" tvg-name="Discovery HH apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery HH apk
 http://212.102.60.39:2200/BRX/Disc_HH_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBhfw==
 
 
+#EXTINF:-1 tvg-id="Disc_Science apk" tvg-name="Disc_Science apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Disc_Science apk
+http://212.102.60.39:2200/BRX/Disc_Science_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBgew==
+
+
+#EXTINF:-1 tvg-id="Discovery Turbo apk" tvg-name="Discovery Turbo apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo apk
+http://212.102.60.39:2200/BRX/Disc_Turbo_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBgeA==
+
 #EXTINF:-1 tvg-id="Discovery Theater apk" tvg-name="Discovery Theater apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Theater apk
 http://212.102.60.39:2200/BRX/Disc_Theater_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBhfA==
+
+#EXTINF:-1 tvg-id="Disc_World apk" tvg-name="Disc_World" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Disc_World apk
+http://212.102.60.39:2200/BRX/Disc_World_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBgcg==
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/25.m3u8?play_token=Be6EZbackI&token=TBtZUEsLRF5ADwAJWwECB1UADgEAA1MFUAUCAVMAUwEPWlBTWQYCUQYUSRtLRkVQB1RoClQXCgRRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgEKFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQICAgaHg==
