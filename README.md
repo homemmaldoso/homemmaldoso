@@ -176,7 +176,7 @@ http://212.102.60.39:2200/BRX/TLC_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3
 #EXTINF:-1 tvg-id="Animal Planet APK" tvg-name="Animal Planet Apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Animal Planet
 http://212.102.60.39:2200/BRX/A_Planet_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBheg==
 
-#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",NATGEO
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Documentários",NATGEO
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/58.m3u8?play_token=6ss6g5vWy7&token=TBtZUEsLRF5AUFUIXANTB1VYB1NTVwkBUlYOBw1QVgZRD1RQWlZTUFEUSRtLRkVQB1RoClQXCgNcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUAULFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYNBQAMQRs=
 
 #EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Mais Globosat" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Mais Globosat
@@ -199,7 +199,7 @@ http://212.102.60.39:2200/BRX/Disc_Science_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN
 #EXTINF:-1 tvg-id="Discovery Turbo apk" tvg-name="Discovery Turbo apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo apk
 http://212.102.60.39:2200/BRX/Disc_Turbo_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBgeA==
 
-#EXTINF:-1 tvg-id="Discovery Theater apk" tvg-name="Discovery Theater apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Theater apk
+#EXTINF:-1 tvg-id="Discovery Theater apk" tvg-name="Discovery Theater apk" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Documentários",Discovery Theater apk
 http://212.102.60.39:2200/BRX/Disc_Theater_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBhfA==
 
 #EXTINF:-1 tvg-id="Disc_World apk" tvg-name="Disc_World" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Disc_World apk
@@ -209,11 +209,11 @@ http://212.102.60.39:2200/BRX/Disc_World_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3N
 #EXTINF:-1 tvg-id="TLC apk" tvg-name="TLC apk" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Documentários",TLC apk
 http://212.102.60.39:2200/BRX/TLC_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBleA==
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Documentários",History
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/25.m3u8?play_token=Be6EZbackI&token=TBtZUEsLRF5ADwAJWwECB1UADgEAA1MFUAUCAVMAUwEPWlBTWQYCUQYUSRtLRkVQB1RoClQXCgRRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgEKFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQICAgaHg==
 
 
-#EXTINF:-1 tvg-id="History apk" tvg-name="History apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History apk
+#EXTINF:-1 tvg-id="History apk" tvg-name="History apk" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Documentários",History apk
 http://212.102.60.39:2200/BRX/H2_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBjfg==
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History 2
