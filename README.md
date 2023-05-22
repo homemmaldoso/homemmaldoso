@@ -1,23 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GLOBO RBS" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",GLOBO http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
+#EXTINF:-1 tvg-id="GLOBO RBS" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",GLOBO http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="Globo RJ" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",GLOBO
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="Globo RJ" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",GLOBO
 http://212.102.60.39:2200/BRX/Globo_RJ_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3RhfQ==
 
-#EXTINF:-1 tvg-id="Globo Criciuma" tvg-name="Globo Criciuma" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Criciuma
+#EXTINF:-1 tvg-id="Globo Criciuma" tvg-name="Globo Criciuma" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",Globo Criciuma
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/130942.m3u8?play_token=kUqF50QnlA&token=TBtZUEsLRF5AU1cOCQRRBVQOAgUAAAlSVgJRUwNSUQABCFMFAAcDUVoUSRtLRkVQB1RoClQXCgdXUw4EB0oXR0RcQ25RB0ReQAJQCQwLFRlETV4OVRcKBkhBR1lRRA8QBggHAhpPRAEaQgBLVlNbagJcQQpTUBIMChZbXBlEWlxoXVRcWQ0CRlgUVRsUEF5GFhsNDUVZXBpGAV5ERwdBVxUDEwAAUV9GThQGVk1cQ0cfGw1BcmcSGkYGT0RQCEZbWFcTCxoOVRFaFEkbUUFoRwNKQxFVVF1TFkENEgVEGRBaWEluWwwICgdVEVBXXEQXXBsGQRwXXVkKCkNfRzlFW1MbCxMJU1ZVQEs=
 
-#EXTINF:-1 tvg-id="Globo Floripa" tvg-name="Globo Florianópolis" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Florypa
+#EXTINF:-1 tvg-id="Globo Floripa" tvg-name="Globo Florianópolis" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",Globo Florypa
 http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3Rhew==
 
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD H264" tvg-logo="http://dns.ulttv.xyz/i/axn.png" group-title="Filmes",AXN FHD H264
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD H264" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes",AXN FHD H264
 http://channels2.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/29.m3u8?play_token=6HswwCP4TM&token=TBtZUEsLRF5AAVVbXVRRBwVcVgFUVwgGAAIGUldVBVEHD1UEAVRUAQMUSRtLRkVQB1RoClQXCgRdTxVFRgNHbV5dEwsaUVRQVwZHFRpGXlgDGw1THBdAXwBBDRIHUgwLBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwkOUUQZ
 
-#EXTINF:-1 tvg-id="Baby TV HD" tvg-name="BABY TV FHD H265" tvg-logo="http://dns.ulttv.xyz/i/babytv.png" group-title="Infantil",BABY TV FHD H265
+#EXTINF:-1 tvg-id="Baby TV HD" tvg-name="BABY TV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="Infantil",BABY TV FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/ViYe0UPDRx/97.m3u8?play_token=JS2I4cBcHG&token=TBtZUEsLRF5AA1ABDwJRUQJbAlVRDQAOAlUAVAMDDAMAC1UGXgJVVVEUSRtLRkVQB1RoClQXCg9TTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQGABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUICQgJVUQZ
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="Infantil",Cartoonito
