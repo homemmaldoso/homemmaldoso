@@ -202,6 +202,10 @@ http://212.102.60.39:2200/BRX/Disc_Theater_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN
 #EXTINF:-1 tvg-id="Disc_World apk" tvg-name="Disc_World" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Disc_World apk
 http://212.102.60.39:2200/BRX/Disc_World_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBgcg==
 
+
+#EXTINF:-1 tvg-id="TLC apk" tvg-name="TLC apk" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Documentários",TLC apk
+http://212.102.60.39:2200/BRX/TLC_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBleA==
+
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/25.m3u8?play_token=Be6EZbackI&token=TBtZUEsLRF5ADwAJWwECB1UADgEAA1MFUAUCAVMAUwEPWlBTWQYCUQYUSRtLRkVQB1RoClQXCgRRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgEKFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQICAgaHg==
 
