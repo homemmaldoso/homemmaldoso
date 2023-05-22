@@ -11,9 +11,6 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/130942.m3u8?play_token
 #EXTINF:-1 tvg-id="Globo Floripa" tvg-name="Globo Florianópolis" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Florypa
 http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3Rhew==
 
-#EXTINF:-1 tvg-id="Rede Record" tvg-name="Globo Florianópolis" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Rede Record",Rede Record
-http://212.102.60.39:2200/BRX/Record_Tv_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3RgfQ==
-
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
@@ -57,7 +54,7 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/105.m3u8?play_token=Mg
 http://212.102.60.39:2200/BRX/RedeTV_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3RgeA==
 
 #EXTINF:-1 tvg-id="Record SP FHD" tvg-name="RECORD  FHD H265" tvg-logo="http://dns.ulttv.xyz/i/record.png" group-title="TV aberta",RECORD HD
-http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/130.m3u8?play_token=dpt6PXdDiw&token=TBtZUEsLRF5AVABaXFACV1JaVAdUBwYOAlUPBwICBgRVXAgBAVUAAVYUSRtLRkVQB1RoClQXCgdXUxsSQBVQQGhQVRMCQVJRUgJcGxQQQ1wLXBVZABkSRg0HFQoXVwYGBQgTHRoGHhAHRAtYVG1TUBBQVAYSD15DCA8bEloIalZSVFBfXEFcRlIUSRtRQUcXXFdCD1wZElQNF0VRQQMXCBUICAUMQUpGAVkQV0xAThdcG3UxEhkSUxwXUl5GD1pcFQMTXAsWXkZOFAxKZ0BSRhJLUgJdUEIUXkEHEhlEWFNPZlJeVg0DBxZfCldLEA0XVxsbQV1aXl8QDEVvRQ9REA0bCQkKW0QZ
+http://212.102.60.39:2200/BRX/Record_Tv_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3RgfQ==
 
 #EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes",Telecine Pipoca HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/11.m3u8?play_token=ZK245R8MtG&token=TBtZUEsLRF5AUFYKXAoGAFZcU1YABQUCUAVTAAMAAFYGDwUHCwIDXVoUSRtLRkVQB1RoClQXCgdVTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwcKDxsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBBQUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAYPQRs=
