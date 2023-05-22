@@ -26,6 +26,9 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/60.m3u8?play_token=MqI
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/32.m3u8?play_token=RWHWWEcFV2&token=TBtZUEsLRF5AUgdaWwEAV1MOUVoDU1YOUVFSUQEAAldWDgJTW1EEUQMUSRtLRkVQB1RoClQXCgVWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUgMGFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQMCQYaHg==
 
+#EXTINF:-1 tvg-id="Cartoon Network APK" tvg-name="Cartoon Network APK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+http://212.102.60.39:2200/BRX/Cartoon_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnFheA==
+
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/43.m3u8?play_token=CYbbP2eTAh&token=TBtZUEsLRF5AV1daXgQOB1IAVgAGUQQCBlNWBFZSAlAFAVJQDVVTXAQUSRtLRkVQB1RoClQXCgJXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVgEEAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAMAQRs=
 
