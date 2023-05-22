@@ -205,8 +205,15 @@ http://212.102.60.39:2200/BRX/Disc_World_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3N
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/25.m3u8?play_token=Be6EZbackI&token=TBtZUEsLRF5ADwAJWwECB1UADgEAA1MFUAUCAVMAUwEPWlBTWQYCUQYUSRtLRkVQB1RoClQXCgRRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgEKFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQICAgaHg==
 
+
+#EXTINF:-1 tvg-id="History apk" tvg-name="History apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",History apk
+http://212.102.60.39:2200/BRX/H2_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBjfg==
+
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History 2
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/9.m3u8?play_token=GYP8xGCwKC&token=TBtZUEsLRF5ABVRfDFQHBgMBA1pVAwZXUgVRBFRWVgZSDQgIXABRUVMUSRtLRkVQB1RoClQXCg9IQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQcNUgQQGxtUSUwGFAoDWjpdXUReVgMbDQ1FWVwaRgxZb1EDWFNZXRMLGlNESEBfFkkaCFlAClUbQVJcREQFF1ISD0QEBAcAEx0aAAkRDEIXQBoIFXc0GxtBVU1EUwoQXl9bRA8QWgpECRpPRA0RaRdcS0ZFUAdUUhESDxIGRk8VXVQealFYV19UWxcPCwxFRwMaAxUZRFRYDVlBX0Q7E15UF1wXAwEJAgkaHg==
+
+#EXTINF:-1 tvg-id="History 2 APK" tvg-name="History 2 ApK" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History 2
+http://212.102.60.39:2200/BRX/H2_HDPLUS/tracks-a1/mono.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBjfg%3D%3D
 
 #EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="Discovery Home Health" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Home Health
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/85.m3u8?play_token=8muVJ4cOpd&token=TBtZUEsLRF5AVQZbDVQBAlAKUgADDAgEVABTUgVTV1FUCQkBCgBWVAMUSRtLRkVQB1RoClQXCg5RTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUAIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIOBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAUABAYKQRs=
@@ -214,8 +221,14 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/85.m3u8?play_token=8mu
 #EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Documentários",ID: Investigação Discovery
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/76.m3u8?play_token=GxpV2n59li&token=TBtZUEsLRF5AVQMBW1cGB1MADltWU1EDXFECUlQHAwQOX1cIAFMCUlsUSRtLRkVQB1RoClQXCgFSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUgcEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KCRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAQBQRs=
 
+#EXTINF:-1 tvg-id="ID: Investigação Discovery APK" tvg-name="ID: Investigação Discovery APK" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Documentários",ID: Investigação Discovery
+http://212.102.60.39:2200/BRX/ID_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBifg==
+
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Theater
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/42.m3u8?play_token=s8OlEZti4m&token=TBtZUEsLRF5AB1daW1YCBQIKAFNWA1NUAQBWBgUABFcGDAVQDVEFUAMUSRtLRkVQB1RoClQXCgJWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINXgMBFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwEJABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQLAwIaHg==
+
+#EXTINF:-1 tvg-id="Nat GEo Apk" tvg-name="Nat GEo Apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Nat GEo Apk
+http://212.102.60.39:2200/BRX/NatGeo_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBlew==
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Discovery Turbo
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/5.m3u8?play_token=FGVeJeNWBz&token=TBtZUEsLRF5AD1wOXFNSU1AADgUAVwMBBlNSBwEABVcAWgEEDlpQVFcUSRtLRkVQB1RoClQXCgNIQUJDUBRqW1MbCxMMVlZQWxRJG0xbWlBEAwdPEkVZUkZZFQcDUwEQGxtUSUwGFAoDWjpdXUReVgMbDQ1FWVwaRgxZb1EDWFNZXRMLGlNESEBfFkkaCFlAClUbQVJcREQFF1ISD0QEBw4MEx0aAAkRDEIXQBoIFXc0GxtBVU1EUwoQXl9bRA8QWgpECRpPRA0RaRdcS0ZFUAdUUhESDxIGRk8VXVQealFYV19UWxcPCwxFRwMaAxUZRFRYDVlBX0Q7E15UF1wXAAANAwkaHg==
