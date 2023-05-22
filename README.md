@@ -83,67 +83,67 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/91.m3u8?play_token=5cK
 #EXTINF:-1 tvg-id="TNT Esportes" tvg-name="TNT Esportes" tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="Esportes",TNT Esportes
 http://212.102.60.39:2200/BRX/TNT__1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3VmfQ==
 
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="Filmes",Studio Universal HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/78.m3u8?play_token=rSqZfSNfkH&token=TBtZUEsLRF5AAlIIClcEUVdfBlcGDFMFAgAGBFQDDFYOAAlTD1NWB1EUSRtLRkVQB1RoClQXCgFcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgIKBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcMU0QZ
 
-#EXTINF:-1 tvg-id="Syfy FHD" tvg-name="SYFY FHD H265" tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="FILMES & SÉRIES",SYFY HD
+#EXTINF:-1 tvg-id="Syfy FHD" tvg-name="SYFY FHD H265" tvg-logo="http://dns.ulttv.xyz/i/syfy.png" group-title="Filmes",SYFY HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/62.m3u8?play_token=DC7AekrE0L&token=TBtZUEsLRF5ABAQOAQUEAldfBgFSV1JTVwUOAwVeVANWWAEFDlsAXQAUSRtLRkVQB1RoClQXCgBWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUg0FABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwQNVkQZ
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="FILMES & SÉRIES",TCM HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tcm.png" group-title="Filmes",TCM HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/72.m3u8?play_token=u3HFxNLamY&token=TBtZUEsLRF5ABwYKCFdVVFYMAAUIVAQFUwJVBFFVDQoGXwIBXlEHB1MUSRtLRkVQB1RoClQXCgFWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUg0AAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAQYIUUQZ
 
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tnt.png" group-title="FILMES & SÉRIES",TNT HD
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tnt.png" group-title="Filmes",TNT HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/14.m3u8?play_token=BBWrD1BnQ9&token=TBtZUEsLRF5AVAELCwIODFABBVQIDQRUU1UEVgVSUABTWAVSXlsDUQQUSRtLRkVQB1RoClQXCgdQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIDUwcBFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQLBQIKQRs=
 
-#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT SERIES FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="FILMES & SÉRIES",TNT SERIES HD
+#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT SERIES FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tntseries.png" group-title="Filmes",TNT SERIES HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/13.m3u8?play_token=IpvPswYgR6&token=TBtZUEsLRF5AUFEKCFMGDFMJVgYEVFMHAFMPAQIDU1RVCgNSWgVeVVQUSRtLRkVQB1RoClQXCgdXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVQUGFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8JBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQLBAEBQRs=
 
-#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="FILMES & SÉRIES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/wbtv.png" group-title="Filmes",WARNER CHANNEL HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/68.m3u8?play_token=loOLXayCGF&token=TBtZUEsLRF5ABgZYAQMBAFAIVFMCBAlTAAIDBgJVAQBVAQACAFEEUAYUSRtLRkVQB1RoClQXCgBcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQABBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYAAwUaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBULBwUIUEQZ
 
-#EXTINF:-1 tvg-id="Star Life FHD" tvg-name="STAR LIFE FHD H265" tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="FILMES & SÉRIES",STAR LIFE FHD H265
+#EXTINF:-1 tvg-id="Star Life FHD" tvg-name="STAR LIFE FHD H265" tvg-logo="http://dns.ulttv.xyz/i/starlife.png" group-title="Filmes",STAR LIFE FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/77.m3u8?play_token=VSsBm5eshb&token=TBtZUEsLRF5ABQddXVQFVFMPBVoDVlJTUAJTBFNeAlYGAFMFAAJfAFAUSRtLRkVQB1RoClQXCgFTTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgMDAxsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYMCAcaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQcJQRs=
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="FILMES & SÉRIES",SPACE FHD H264
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/space.png" group-title="Filmes",SPACE FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/49.m3u8?play_token=MtHoRfEzQp&token=TBtZUEsLRF5AAAMPCQtWBVRbB1QDBwAPXFFWVQVWBlYFDAJQXFEFXVMUSRtLRkVQB1RoClQXCgJdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwELBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQQJQRs=
 
-#EXTINF:-1 tvg-id="HBO Mundi FHD [Alter]" tvg-name="HBO MUNDI FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="HBO",HBO MUNDI FHD H264
+#EXTINF:-1 tvg-id="HBO Mundi FHD [Alter]" tvg-name="HBO MUNDI FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbomundi.png" group-title="Filmes",HBO MUNDI FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/41.m3u8?play_token=V6CFuEFMaB&token=TBtZUEsLRF5AB1JdXgoEAwIKUgcFAlMAXQZSBQICAwEAWAFUDVtWAFsUSRtLRkVQB1RoClQXCgJVTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwcADhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYMCAQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcLUkQZ
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEBRASIL TV FHD H264" tvg-logo="http://dns.ulttv.xyz/i/cinebrasiltv.png" group-title="FILMES & SÉRIES",Cinebrasil HD
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEBRASIL TV FHD H264" tvg-logo="http://dns.ulttv.xyz/i/cinebrasiltv.png" group-title="Filmes",Cinebrasil HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/45.m3u8?play_token=zLwAnoNBIG&token=TBtZUEsLRF5ABFQKCFAPDV8AAlBRAFNVB1oEUlFTUAsCCgAJAFNeVgQUSRtLRkVQB1RoClQXCgJRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYBAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAgaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBULCQAJWkQZ
 
-#EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="FILMES & SÉRIES",FX FHD H265
+#EXTINF:-1 tvg-id="FX FHD" tvg-name="FX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/fx.png" group-title="Filmes",FX FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/48.m3u8?play_token=gQFcO81ObL&token=TBtZUEsLRF5AB1IBCgBRUVdfUQdVUQYBVgUPAwIADFNTDgdSWwFTUVQUSRtLRkVQB1RoClQXCgJcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwEKBxsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAQAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQAPQRs=
 
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="HBO",HBO 2 FHD H265
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="http://dns.ulttv.xyz/i/hbo2.png" group-title="Filmes",HBO 2 FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/36.m3u8?play_token=jGlECP5sN6&token=TBtZUEsLRF5AB1xYCAADBFNdA1JTU1QCUFRTUlNWBQYFCQZXClIEVlYUSRtLRkVQB1RoClQXCgVSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgMKAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAQYaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUPBQEMQRs=
 
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="HBO",HBO FHD H264
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbo.png" group-title="Filmes",HBO FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/35.m3u8?play_token=EVHKsizoTG&token=TBtZUEsLRF5AVAAMWQVVAgBcAFsGA1IHB1FTVVNUBFYOX1VTXVICBVYUSRtLRkVQB1RoClQXCgVRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQHBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIBAcKVEQZ
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://dns.ulttv.xyz/i/hboplus.png" group-title="HBO",HBO PLUS FHD H265
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="http://dns.ulttv.xyz/i/hboplus.png" group-title="Filmes",HBO PLUS FHD H265
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/37.m3u8?play_token=isl7aoclZA&token=TBtZUEsLRF5AVAZaXgoPUQIKU1oCVwhTUFIHVQwHUAMGAFUFWQdfXAQUSRtLRkVQB1RoClQXCgVTTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYLAxsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUABQUAQRs=
 
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL FHD H264" tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="FILMES & SÉRIES",SONY CHANNEL FHD H264
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL FHD H264" tvg-logo="http://dns.ulttv.xyz/i/canalsony.png" group-title="Filmes",SONY CHANNEL FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/63.m3u8?play_token=dp1DtlgmJc&token=TBtZUEsLRF5AUF0PXQJRVAcAU1BWAlNUXFIHVlQDBQoDDQUFClRUVFUUSRtLRkVQB1RoClQXCgBXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwUHBBsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAAYaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQMNQRs=
 
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="HBO",HBO POP
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="http://dns.ulttv.xyz/i/hbopop.png" group-title="Filmes",HBO POP
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/75.m3u8?play_token=Mflg9NvKWx&token=TBtZUEsLRF5ADlNdXAFRDVcLAgIIDFQEV1QDCFFTB1QBWgNVXloCBwEUSRtLRkVQB1RoClQXCgFRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwAKAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAQEaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQMKQRs=
 
-#EXTINF:-1 tvg-id="HBO Signature FHD [Alter]" tvg-name="HBO SIGNATURE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="HBO",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBO Signature FHD [Alter]" tvg-name="HBO SIGNATURE FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hbosignature.png" group-title="Filmes",HBO SIGNATURE HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/40.m3u8?play_token=qTO0DhuQ4c&token=TBtZUEsLRF5AAVFaD1ZWV1NYA1cHDQgHVloDBwdVUQNTWlICAFUEAAYUSRtLRkVQB1RoClQXCgJUTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwEDBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQkKQRs=
 
-#EXTINF:-1 tvg-id="HBO Xtreme FHD [Alter]" tvg-name="HBO XTREME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="HBO",HBO XTREME HD
+#EXTINF:-1 tvg-id="HBO Xtreme FHD [Alter]" tvg-name="HBO XTREME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/hboxtreme.png" group-title="Filmes",HBO XTREME HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/79.m3u8?play_token=D6diGHBinj&token=TBtZUEsLRF5AAVNdWVcFBlUOA1RRDFUGVlFUCAFeUFFSXVQBCwJXUwcUSRtLRkVQB1RoClQXCgFdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwIGBRsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgcaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAkOQRs=
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H264" tvg-logo="http://dns.ulttv.xyz/i/lifetime.png" group-title="Variedades",LIFETIME HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/65.m3u8?play_token=9MjGbEACnw&token=TBtZUEsLRF5AAFMKWQICVlFaDwIDAAFVVAcHCAVUBQIDWlBQAFcEVFYUSRtLRkVQB1RoClQXCgBRTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwYGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUNAQQPQRs=
 
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="FILMES & SÉRIES",MEGAPIX HD
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD H265" tvg-logo="http://dns.ulttv.xyz/i/megapix.png" group-title="Filmes",MEGAPIX HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/46.m3u8?play_token=ldx6JZmmY8&token=TBtZUEsLRF5AVVINAAEABwVaVgYIVwMAVlcFCQRTAlFWXwgCDwBXUQEUSRtLRkVQB1RoClQXCgJSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgABABsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAgQaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUKAAMLUUQZ
 
-#EXTINF:-1 tvg-id="Paramount HD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="FILMES & SÉRIES",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="Paramount HD" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://dns.ulttv.xyz/i/paramountchannel.png" group-title="Filmes",PARAMOUNT CHANNEL
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/66.m3u8?play_token=SFjGsiRTon&token=TBtZUEsLRF5AAgNYWQpWDFELU1AFAQQDAlAEAVRRVwcACFcHAAFeB1oUSRtLRkVQB1RoClQXCgBSTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUwQBBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAAAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQIJQRs=
 
 #EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="PRIME BOX BRASIL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/primeboxbrazil.png" group-title="Variedades",PRIME BOX BRASIL FHD H265
@@ -388,9 +388,9 @@ http://212.102.60.39:2200/BRX/Premiere_3_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwU
 http://212.102.60.39:2200/BRX/Premiere_4_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3pjeQ==
 #EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 5 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
 http://212.102.60.39:2200/BRX/Premiere_5_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3plfA==
-#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 6 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PFC 2 FHD
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 6 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
 http://212.102.60.39:2200/BRX/Premiere_6_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3pncw==
-#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 7 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PFC 2 FHD
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 7 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
 http://212.102.60.39:2200/BRX/Premiere_7_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3ppfw==
 #EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV1 APK" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="Esportes",SPORTV 2 4K
 http://212.102.60.39:2200/BRX/SporTV_1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RpenNhfg==
