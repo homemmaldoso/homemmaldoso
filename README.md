@@ -78,6 +78,9 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/82.m3u8?play_token=zTJ
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H264" tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="Filmes",TBS FHD H264
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/91.m3u8?play_token=5cKDdZLyNO&token=TBtZUEsLRF5AAlMACgJUBV5cB1pTBAUHVFoPAgcHVwIBDwNQWwdeUQQUSRtLRkVQB1RoClQXCg9VTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgwGBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYAAgAaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUAAQYIQRs=
 
+#EXTINF:-1 tvg-id="TNT Esportes" tvg-name="TNT Esportes" tvg-logo="http://dns.ulttv.xyz/i/tbs.png" group-title="Esportes",TNT Esportes
+http://212.102.60.39:2200/BRX/TNT__1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3VmfQ==
+
 #EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://dns.ulttv.xyz/i/studiouniversal.png" group-title="FILMES & SÉRIES",Studio Universal HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/78.m3u8?play_token=rSqZfSNfkH&token=TBtZUEsLRF5AAlIIClcEUVdfBlcGDFMFAgAGBFQDDFYOAAlTD1NWB1EUSRtLRkVQB1RoClQXCgFcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgIKBhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYPAwMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUIAwcMU0QZ
 
