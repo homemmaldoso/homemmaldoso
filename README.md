@@ -8,6 +8,10 @@ http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/145.m3u8?play_token=HD
 #EXTINF:-1 tvg-id="Globo Criciuma" tvg-name="Globo Criciuma" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Criciuma
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/130942.m3u8?play_token=kUqF50QnlA&token=TBtZUEsLRF5AU1cOCQRRBVQOAgUAAAlSVgJRUwNSUQABCFMFAAcDUVoUSRtLRkVQB1RoClQXCgdXUw4EB0oXR0RcQ25RB0ReQAJQCQwLFRlETV4OVRcKBkhBR1lRRA8QBggHAhpPRAEaQgBLVlNbagJcQQpTUBIMChZbXBlEWlxoXVRcWQ0CRlgUVRsUEF5GFhsNDUVZXBpGAV5ERwdBVxUDEwAAUV9GThQGVk1cQ0cfGw1BcmcSGkYGT0RQCEZbWFcTCxoOVRFaFEkbUUFoRwNKQxFVVF1TFkENEgVEGRBaWEluWwwICgdVEVBXXEQXXBsGQRwXXVkKCkNfRzlFW1MbCxMJU1ZVQEs=
 
+#EXTINF:-1 tvg-id="Globo Floripa" tvg-name="Globo Florianópolis" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="TV aberta",Globo Florypa
+http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3Rhew==
+
+
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://dns.ulttv.xyz/i/amc.png" group-title="Filmes",AMC
 http://channels1.homelinux.com/live/ozfGozBQfH/XUMUUREDNr/156350.m3u8?play_token=kCDwkqU8tG&token=TBtZUEsLRF5ABVFdDVQGAwQOBVNWAFRTBlQCUwcDAwcODgACAVBVVAQUSRtLRkVQB1RoClQXCgdRVQQFBUoXR0RcQ25RB0ReQARXDQ0CFRlETV4OVRcKBkhBR1lRRA8QBgkFCQlBSkYHThFcSlxWWTldUhVZVlUUXg1CXFlKF11ZZlVUVQIIAEAMRwkaHhVcFUkVWV5AXFpIQVVZQRRURlIbCxMKVlJdQBpHWldHWUEUQBVZEndiFEhBUkhBA1tBXlZfEwJBC1cXDkcVGltEahRcRBdCUFFbAREVChdWFx4VVFBJZwAJCgxTBk1RXVlGRAMVUhIZElsLDV5EWhRqQl5dEwsaUlZRUQBHRA==
 
