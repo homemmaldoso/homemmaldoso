@@ -170,6 +170,9 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/86.m3u8?play_token=irA
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Variedades",TLC
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/88.m3u8?play_token=3Gl9BLkDsc&token=TBtZUEsLRF5AD1IIDgQHUAMIBwdSBwYBU1cGVVYDAFZSDAgDAVJeXVUUSRtLRkVQB1RoClQXCg5cTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXgAAFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4MABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQNBwIaHg==
 
+#EXTINF:-1 tvg-id="TLC apk" tvg-name="TLC apk" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Variedades",TLC apk
+http://212.102.60.39:2200/BRX/TLC_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBleA==
+
 #EXTINF:-1 tvg-id="Animal Planet APK" tvg-name="Animal Planet Apk" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Documentários",Animal Planet
 http://212.102.60.39:2200/BRX/A_Planet_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnBheg==
 
