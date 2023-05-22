@@ -272,3 +272,91 @@ http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/57.m3u8?play_token=TJ6
 
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE 4k" tvg-logo="" group-title="Esportes",Combate HD
 http://channels2.homelinux.com/live/2BFT7axxJI/K0aBi1QVWZ/24.m3u8?play_token=ZPQ8Jyx1Al&token=TBtZUEsLRF5ADlALClNUBldYDlJTUwEDAQAAVFBUAQNVCAMEXAEFBwQUSRtLRkVQB1RoClQXCgRQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIHUgADDhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYABQYaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBULCQQPU0QZ
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E APK" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes",A&E APK
+http://212.102.60.39:2200/BRX/AE_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneXtnfw==
+
+#EXTINF:-1 tvg-id="13.argentina.ar" tvg-name="CINEMAX APK" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes",CINEMAX FHD H265
+http://212.102.60.39:2200/BRX/Cinemax_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHNjeg==
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL APK" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Filmes",COMEDY CENTRAL FHD H265
+http://212.102.60.39:2200/BRX/Comedy_Central_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHNkeg==
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX APK" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes",FX HD
+http://212.102.60.39:2200/BRX/FX_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHNpfQ==
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY APK" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes",HBO FAMILY SD²
+http://212.102.60.39:2200/BRX/HBO_Family_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHJjeA==
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI APK" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes",HBO MUNDI FHD H265
+http://212.102.60.39:2200/BRX/HBO_Mundi_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHJneg==
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ APK" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes",HBO+ HD
+http://212.102.60.39:2200/BRX/HBO_Plus_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHFkfg==
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP APK" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes",HBO POP FHD H265
+http://212.102.60.39:2200/BRX/HBO_POP_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHFpfg==
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE APK" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes",HBO SIGNATURE FHD H265
+http://212.102.60.39:2200/BRX/HBO_Signature_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHBgeg==
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME APK" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes",HBO XTREME HD
+http://212.102.60.39:2200/BRX/HBO_Xtreme_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHBieg==
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ APK" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes",HBO + HD²
+http://212.102.60.39:2200/BRX/HBO1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHBkfg==
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD²" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes",HBO + HD²
+http://212.102.60.39:2200/BRX/HBO2_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHBmeA==
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME APK" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes",LIFETIME FHD H265
+http://212.102.60.39:2200/BRX/Lifetime_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHBofw==
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX APK" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes",MEGAPIX HD
+http://212.102.60.39:2200/BRX/Megapix_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHdpeQ==
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW APK" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Filmes",MULTISHOW  FHD H265
+http://212.102.60.39:2200/BRX/Multishow_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHZgfg==
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes",SPACE HD
+http://212.102.60.39:2200/BRX/Space_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHZifg==
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL APK" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="Filmes",STUDIO UNIVERSAL FHD H265
+http://212.102.60.39:2200/BRX/Studio_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHZncw==
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY APK" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="Filmes",SYFY FHD H265²
+http://212.102.60.39:2200/BRX/Syfy_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHZpfw==
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION APK" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="Filmes",TELECINE ACTION HD
+http://212.102.60.39:2200/BRX/TC_Action_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHVhfA==
+
+#EXTINF:-1 tvg-id="Tccult" tvg-name="TELECINE CULT APK" tvg-logo="https://www.rochagalaxia.live/logos/telecinecult250.png" group-title="Filmes",TELECINE CULT HD
+http://212.102.60.39:2200/BRX/TC_Cult_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHView==
+
+#EXTINF:-1 tvg-id="telecine" tvg-name="TELECINE FUN APK" tvg-logo="http://www.rochagalaxia.live/logos/TCFUN.png" group-title="Filmes",TELECINE FUN HD
+http://212.102.60.39:2200/BRX/TC_Fun_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHVlfQ==
+
+#EXTINF:-1 tvg-id="Tcpipoca" tvg-name="TELECINE PIPOCA APK" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="Filmes",TELECINE PIPOCA HD
+http://212.102.60.39:2200/BRX/TC_Pipoca_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHVneQ==
+
+#EXTINF:-1 tvg-id="Tcpremium" tvg-name="TELECINE PREMIUM APK" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="Filmes",TELECINE PREMIUM HD
+http://212.102.60.39:2200/BRX/TC_Premium_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHVpfg==
+
+#EXTINF:-1 tvg-id="Tctouch" tvg-name="TELECINE TOUCH APK" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="Filmes",TELECINE TOUCH HD
+http://212.102.60.39:2200/BRX/TC_Touch_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHRgfQ==
+
+#EXTINF:-1 tvg-id="Tnt" tvg-name="TNT apk" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="Filmes",TNT HD
+http://212.102.60.39:2200/BRX/TNT__1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHRlfQ==
+
+#EXTINF:-1 tvg-id="TNTSerie" tvg-name="TNT SERIES APK" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="Filmes",TNT SERIES FHD H265
+http://212.102.60.39:2200/BRX/TNT_Series_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHRpeA==
+
+#EXTINF:-1 tvg-id="Trutv" tvg-name="TRUTV apk" tvg-logo="https://www.rochagalaxia.live/logos/TRUTV.png" group-title="Filmes",TRUTV
+http://212.102.60.39:2200/BRX/TruTV_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHthcg==
+
+#EXTINF:-1 tvg-id="universal apk" tvg-name="UNIVERSAL CHANNEL APK" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes",ARG | UNIVERSAL CHANNEL HD
+http://212.102.60.39:2200/BRX/Universal_TV_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHtifA==
+
+#EXTINF:-1 tvg-id="Warnerchannel apk" tvg-name="WARNER CHANNEL apk" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes",WARNER CHANNEL SD
+http://212.102.60.39:2200/BRX/Warner_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHtkfw==
+
