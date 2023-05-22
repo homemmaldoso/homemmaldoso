@@ -360,3 +360,44 @@ http://212.102.60.39:2200/BRX/Universal_TV_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQ
 #EXTINF:-1 tvg-id="Warnerchannel apk" tvg-name="WARNER CHANNEL apk" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes",WARNER CHANNEL SD
 http://212.102.60.39:2200/BRX/Warner_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RneHtkfw==
 
+#EXTINF:-1 tvg-id="COMBATC" tvg-name="COMBATE APK" tvg-logo="https://lh3.googleusercontent.com/-K-NqMSp-5TM/YG2obA4zaOI/AAAAAAAAKKo/4cSA1vfgH24gabqosjTEyHpMtHfel87ZwCLcBGAsYHQ/COMBATE%2B4K.png" group-title="Esportes",COMBATE 4K
+http://212.102.60.39:2200/BRX/Combate_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3dlfQ==
+#EXTINF:-1 tvg-id="ESPNHDB" tvg-name="ESPN extra APK" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="Esportes",ESPN 2 FHD
+http://212.102.60.39:2200/BRX/ESPN_EXTRA_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3dofw==
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN apk" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 HD
+http://212.102.60.39:2200/BRX/ESPN_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3Zgfg==
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN HDplus apk" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 HD
+http://212.102.60.39:2200/BRX/ESPN_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3ZneA==
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN2 apk" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 HD
+http://212.102.60.39:2200/BRX/ESPN2_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3VieA==
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3 Apk" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 HD
+http://212.102.60.39:2200/BRX/ESPN3_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3Vncw==
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN4 Apk" tvg-logo="https://lh3.googleusercontent.com/-HDozjk3zhhU/Yew9A6OIrAI/AAAAAAAAK4U/akBM5wz6kiAIk9xENPTZdMd6sDPygz01QCNcBGAsYHQ/spn%2B3.png" group-title="Esportes",ESPN 3 HD
+http://212.102.60.39:2200/BRX/ESPN4_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3Rheg==
+#EXTINF:-1 tvg-id="FS2SDBR" tvg-name="FOX SPORTS2 Apk" tvg-logo="https://lh3.googleusercontent.com/-VU9AUVeozHI/YG2oc7YJkSI/AAAAAAAAKLE/327rpY4oaLEHJSBSuaQlwwz0CMMxQrx-gCLcBGAsYHQ/FOX%2BSPORTS%2B2%2B4K.png" group-title="Esportes",FOX SPORTS 2 4K
+http://212.102.60.39:2200/BRX/FOX_Sports2_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3RifQ==
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF APK" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="Esportes",OFF FHD
+http://212.102.60.39:2200/BRX/Off_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3RpeA==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 1 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 1 FHD
+http://212.102.60.39:2200/BRX/Premiere_1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3tlcw==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 2 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_2_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3tmcg==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 3 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_3_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3pheA==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 4 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_4_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3pjeQ==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 5 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="Esportes",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_5_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3plfA==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 6 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_6_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3pncw==
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="PFC 7 APK" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PFC 2 FHD
+http://212.102.60.39:2200/BRX/Premiere_7_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rpe3ppfw==
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV1 APK" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="Esportes",SPORTV 2 4K
+http://212.102.60.39:2200/BRX/SporTV_1_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RpenNhfg==
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV2 APK" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="Esportes",SPORTV 2 4K
+http://212.102.60.39:2200/BRX/SporTV_2_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RpenNicw==
+#EXTINF:-1 tvg-id="SP2HDOI" tvg-name="SPORTV3 APK" tvg-logo="https://lh3.googleusercontent.com/-yMHJ02dNK9g/YB6f_wf-mDI/AAAAAAAAJ94/vFcZhQbWZhQmMJEhLOCGelWrUgW8S9YQwCLcBGAsYHQ/sportv%2B2.png" group-title="Esportes",SPORTV 2 4K
+http://212.102.60.39:2200/BRX/SporTV_3_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RpenNneQ==
+#EXTINF:-1 tvg-id="WOOHOOH" tvg-name="WOOHOO APK" tvg-logo="https://lh3.googleusercontent.com/-zzCBNUjqF0U/YB2OTMRWeDI/AAAAAAAAJ9A/S7N8epO8YeIO3Tv-eAQcpd3f0_Ugu7V8ACLcBGAsYHQ/WOOHOO%2BTV.png" group-title="Esportes",WOOHOO SD 
+http://212.102.60.39:2200/BRX/Woohoo_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RpenNpeQ==
+
