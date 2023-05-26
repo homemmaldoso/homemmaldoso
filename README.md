@@ -24,31 +24,37 @@ http://212.102.60.39:2200/BRX/BabyTV_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3
 http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/60.m3u8?play_token=MqIeZA4Rs8&token=TBtZUEsLRF5AD1cPWgoEUF8BA1YEAQYHBVcFAgRTVlQPCAYACFFXVFcUSRtLRkVQB1RoClQXCgBUTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINXwUHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw8LBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8AAgEaHg==
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/32.m3u8?play_token=RWHWWEcFV2&token=TBtZUEsLRF5AUgdaWwEAV1MOUVoDU1YOUVFSUQEAAldWDgJTW1EEUQMUSRtLRkVQB1RoClQXCgVWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUgMGFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQMCQYaHg==
+http://212.102.60.39:2200/BRX/Cartoon_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnNheQ==
 
 #EXTINF:-1 tvg-id="Cartoon Network APK" tvg-name="Cartoon Network APK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
 http://212.102.60.39:2200/BRX/Cartoon_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnFheA==
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Infantil",Discovery Kids
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/43.m3u8?play_token=CYbbP2eTAh&token=TBtZUEsLRF5AV1daXgQOB1IAVgAGUQQCBlNWBFZSAlAFAVJQDVVTXAQUSRtLRkVQB1RoClQXCgJXTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVgEEAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYBAgMaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAMAQRs=
+http://212.102.60.39:2200/BRX/Disc_Kids_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnNlcg==
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Infantil",Disney Channel
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/38.m3u8?play_token=3UhjfxEyYS&token=TBtZUEsLRF5AAVJdW1QBBVBdAgAEUwMFU1YOA1deUFAEWwIFXVZTUlQUSRtLRkVQB1RoClQXCgVcTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIEVgQGAhsdE10bEgEQWARVZ1ZSQw9aUkEKW0VaCE8VX1s5UVdaWF9VGllEVEAaR1BLQhUPCExbDxwXUl8QEVZEUEQPEAYMCAIaT0QHDUMLTUpLFQ9Ee2VBHBdVThAGWUNcCVsQDRtcAk1bREhAXxZmSldEQRRcVg5VRxIMRlMVHBcLVEpoWl5fVgYFEAtZC0oaCBUERBUVDl9bWUILEWhAXAIXCBUBCAAPQRs=
+http://212.102.60.39:2200/BRX/Disney_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnNmfg==
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",GLOOB H265
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/93.m3u8?play_token=kZNyd7e8SG&token=TBtZUEsLRF5AU1VaCwpSAAddVlcEVwMAVQVWUwxQVwQPDFQCDAZfUgEUSRtLRkVQB1RoClQXCg9XTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUwEFFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4NAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQLBgcIQRs=
+http://212.102.60.39:2200/BRX/Gloob_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnJgeg==
 
 #EXTINF:-1 tvg-id="" tvg-name="Globinho H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",Globinho H265
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/84.m3u8?play_token=Nhw9hDA7Vt&token=TBtZUEsLRF5AAQAIDVcDDFZYAFIFAgcAUVpTUQZXVFYDAVJUClNfAFsUSRtLRkVQB1RoClQXCg5QTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVAMHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIPBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8AAgYaHg==
+http://212.102.60.39:2200/BRX/Gloobinho_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnJieQ==
 
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/80.m3u8?play_token=Q0PbzRo3ee&token=TBtZUEsLRF5AAVEKC1APBwVaAQECUAFUUwYCVQ0HVwVUDFBTWVMABVsUSRtLRkVQB1RoClQXCg5UTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUAMCFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIMAxMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8AAgIaHg==
+http://212.102.60.39:2200/BRX/Nick_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnJkfw==
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Infantil",Nickelondeon
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/59.m3u8?play_token=ugttkfvNas&token=TBtZUEsLRF5AUFZcClQPVl5cDltVUQZVVFNWBQFVVlYOCFAIAFZQVlQUSRtLRkVQB1RoClQXCgNdTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINVQUFFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIOABMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAQPBQMaHg==
+http://212.102.60.39:2200/BRX/Nick_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnJkfw==
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",Tooncast
-http://channels2.homelinux.com/live/2BFT7axxJI/OShRAiNElg/96.m3u8?play_token=BA9Ya6xJmz&token=TBtZUEsLRF5AAlRaCQRTBlFfAgYHDFJTXAYPVQMFUAcADgMBWlADAFsUSRtLRkVQB1RoClQXCg9STxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRIMUQIHFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4KBBMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA8ABQgaHg==
+http://212.102.60.39:2200/BRX/Nick_Jr_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnJocg==
+
+#EXTINF:-1 tvg-id="POCOYO" tvg-name="POCOYO" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",POCOYO
+http://212.102.60.39:2200/BRX/Pocoyo_HD_24_hrs/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnFieQ==
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Infantil",TOONCAST
+http://212.102.60.39:2200/BRX/Tooncast_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgcnBmew==
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://dns.ulttv.xyz/i/sbt.png" group-title="TV aberta",SBT HD
 http://212.102.60.39:2200/BRX/SBT_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3RjfnNmfw==
