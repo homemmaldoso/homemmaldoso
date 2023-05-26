@@ -155,11 +155,11 @@ http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/73.m3u8?play_token=0Dj
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Variedades",GNT
 http://212.102.60.39:2200/BRX/GNT_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgc3Fgcg==
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
-http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/64.m3u8?play_token=EtFYXwhrfW&token=TBtZUEsLRF5AAAcMXlEBAgJbVFFTDFMOBlVWVlNQU1RVC1QJDVEEXQQUSRtLRkVQB1RoClQXCgBQTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICUQwEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwIAARMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAQKQRs=
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV apk" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades",MTV
+http://212.102.60.39:2200/BRX/MTV_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgc3dpew==
 
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Variedades",Multishow HD
-http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/52.m3u8?play_token=St1fqvTIly&token=TBtZUEsLRF5AA1EBAAECVFdYBgJVAQIPBwACVAMCVlFSWgBQAVAEBgAUSRtLRkVQB1RoClQXCgNWTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRINUQAEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAwENAhMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEA4NCAYaHg==
+http://212.102.60.39:2200/BRX/Multishow_UHD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgc3Vjcw==
 
 #EXTINF:-1 tvg-id="True TV HD" tvg-name="True TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Variedades",True TV HD
 http://channels1.homelinux.com/live/2BFT7axxJI/OShRAiNElg/99.m3u8?play_token=ZqTZn3it0t&token=TBtZUEsLRF5AUFxcXANSBgUKAAUHVlICUVQOAQMHA1YEXQMCDlNWVQYUSRtLRkVQB1RoClQXCg9dTxVFRgNHbV5dEwsaV1NUVg9HFRpGXlgDGw1THBdAXwBBDRICXwIEFRUTVEAXAxYMVwlmXFdBXAVcFVleQFxaSEFYXmoCUF9WV1UTAkFWRk4UDEpIEA1bE1VbTxJXWUIWAkNVF1wXAw4LBRMUQQULF1gRS0EQDRckaxVPElBIQgENRFlaCBcIFVQCRABBSkYLRTpLXUFDRwNYWgZCFwoUVEEbElgHTW1UVl9fXQASDQ1YFhsCEAYXShtaDF5cRFkWPEdZUUQPEAYJCAYKQRs=
