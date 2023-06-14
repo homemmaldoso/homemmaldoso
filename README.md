@@ -9,6 +9,9 @@ http://212.102.60.39:2200/BRX/Globo_RJ_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge
 #EXTINF:-1 tvg-id="Globo Floripa" tvg-name="Globo Florianópolis" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",Globo Florypa
 http://212.102.60.39:2200/BRX/Globo_NSC_Floripa_HD/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpf3Rjf3Rhew==
 
+#EXTINF:-1 tvg-id="Canal do BOI" tvg-name="Canal do Boi" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="TV aberta",Canal BOI
+http://main.xplus2-main.xyz:2095/xplus-2-W20pTJnEIu/tYOwRMIuwy/486
+
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes",AMC
 http://212.102.60.39:2200/BRX/AMC_HDPLUS/index.m3u8?token=CXtoCQYVe3FlcwUQN3Nge3Nhe3Nhe3Nhe3Nhe3MtenVpfnJgc3Voeg==
 
